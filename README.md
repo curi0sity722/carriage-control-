@@ -20,7 +20,7 @@ Features include:
 * **Motor Driver:** BTS7960 high-power H-bridge DC motor driver module
 * **Controller:** XIAO ESP32S3 (sends control signals)
 * **Motors:** 24V DC motors, \~200mA each
-* **Power Supply:** WX-DC2412 (24V, 4A) – sufficient to drive all motors
+* **Power Supply:** WX-DC2412 (24V, 4A) 
 * **Relay Module:** Two-channel 24V HL-52S relay (customizable output trigger)
 
 ---
