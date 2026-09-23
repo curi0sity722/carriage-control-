@@ -18,20 +18,25 @@ The system combines a desktop control interface with an **XIAO ESP32-S3**, **BTS
 
 ---
 
-## Project Structure
+## 🎥 Working Demo
+
+PASTE-YOUR-GITHUB-VIDEO-URL-HERE
+
+## 📁 Project Structure
 
 ```text
 carriage-control/
 │
-├── carriage_control_v2.py       # Main Python control application
-├── MOTOR_DRIVER_V2.ino          # ESP32-S3 motor-control firmware
+├── carriage_control_UI.png
+├── carriage_control_v2.py
+├── README.md
 │
-├── carriage_control_UI.png      # GUI preview
+├── mcu_code/
+│   └── MOTOR_DRIVER_V2.ino
 │
-├── carriage_testing.mp4         # Testing / demonstration video
-├── carriage_working.mp4         # Working system demonstration
-│
-└── README.md                    # Project documentation
+└── video_demo/
+    ├── carriage_testing.mp4
+    └── carriage_working.mp4
 ```
 
 ---
@@ -183,14 +188,6 @@ Responsibilities include:
 A test recording demonstrating the carriage control system during testing.
 
 ▶️ **[Watch `carriage_testing.mp4`](carriage_testing.mp4)**
-
-### Working Demonstration
-
-Demonstration of the completed carriage operating under software control.
-
-▶️ **[Watch `carriage_working.mp4`](carriage_working.mp4)**
-
-> **Note:** GitHub will open the MP4 files in its built-in media viewer when the links are clicked.
 
 ---
 
