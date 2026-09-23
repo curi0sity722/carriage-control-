@@ -20,7 +20,7 @@ The system combines a desktop control interface with an **XIAO ESP32-S3**, **BTS
 
 ## 🎥 Working Demo
 
-PASTE-YOUR-GITHUB-VIDEO-URL-HERE
+[PASTE-YOUR-GITHUB-VIDEO-URL-HERE](https://github.com/curi0sity722/carriage-control-/blob/main/video_demo/carriage_working.mp4)
 
 ## 📁 Project Structure
 
