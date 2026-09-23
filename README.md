@@ -20,7 +20,11 @@ The system combines a desktop control interface with an **XIAO ESP32-S3**, **BTS
 
 ## 🎥 Working Demo
 
-https://github.com/user-attachments/assets/efcaf75e-2fc7-4238-a2e4-9707f6d05f1a
+
+
+https://github.com/user-attachments/assets/9bd769b4-fb59-46bc-899d-6f29ddbea344
+
+
 
 ## 📁 Project Structure
 
