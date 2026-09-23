@@ -258,25 +258,3 @@ This makes the system easier to modify and extend for additional automation feat
 
 ---
 
-## Future Improvements
-
-Potential extensions include:
-
-* Position feedback using an encoder
-* Closed-loop speed control
-* Automatic welding sequence control
-* Real-time carriage position tracking
-* Acceleration / deceleration profiles
-* Limit-switch integration
-* Emergency-stop input
-* Weld-machine synchronization
-* Recipe-based welding parameters
-* Data logging and process monitoring
-
----
-
-## License
-
-This project is provided for **engineering, development, and experimental purposes**.
-
-Add an appropriate license here if you intend to make the project open source.
