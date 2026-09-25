@@ -191,7 +191,7 @@ Responsibilities include:
 
 A test recording demonstrating the carriage control system during testing.
 
-▶️ **[Watch `carriage_testing.mp4`](carriage_testing.mp4)**
+▶️ **[Watch `carriage_testing.mp4`](https://github.com/curi0sity722/carriage-control-/blob/main/video_demo/carriage_working.mp4)**
 
 ---
 
